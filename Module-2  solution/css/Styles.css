@@ -13,7 +13,7 @@ h1 {
 section {
 	border:1px solid black;
 	height:210px;
-	background-color:powderblue;
+	background-color:grey;
 	overflow: auto;
 	
 	
@@ -38,11 +38,12 @@ h2 {
 
 
 #chicken {
-	background-color: green;
+	background-color: pink;
 }
 
 #pork {
-	background-color:orange;
+	background-color:red;
+	color:white;
 
 }
 
